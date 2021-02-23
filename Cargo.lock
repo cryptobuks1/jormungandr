@@ -1957,7 +1957,7 @@ dependencies = [
  "tracing-journald",
  "tracing-subscriber",
  "versionisator",
- "warp 0.2.5",
+ "warp 0.3.0",
 ]
 
 [[package]]
@@ -4822,7 +4822,6 @@ dependencies = [
  "serde_json",
  "serde_urlencoded 0.6.1",
  "tokio 0.2.25",
- "tokio-rustls 0.14.1",
  "tokio-tungstenite 0.11.0",
  "tower-service",
  "tracing",
@@ -4852,6 +4851,7 @@ dependencies = [
  "serde_json",
  "serde_urlencoded 0.7.0",
  "tokio 1.2.0",
+ "tokio-rustls 0.22.0",
  "tokio-stream",
  "tokio-tungstenite 0.13.0",
  "tokio-util 0.6.3",
